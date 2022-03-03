@@ -144,7 +144,7 @@ https://pikap.me/api/v1/client/subscribe?token=f8915992604e890163a23c8fbc01987d
 https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/2021-2-21
 https://raw.githubusercontent.com/JACKUSR2089/v2ray-subscribed/master/subscribed/2022-2-7.yaml
 https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
-https://proxy.yugogo.xyz/clash/proxies?type=ss,ssr,vmess,trojan
+https://proxy.yugogo.xyz/clash/proxies
 
 # paste.in 临时节点
 https://paste.in/raw/Zm9K99
@@ -161,7 +161,6 @@ https://paste.in/raw/aX4pbq
 https://paste.in/raw/otAMKP
 
 # 节点池
-
 https://mega.jinxnet.xyz/clash/proxies
 http://60.205.189.25/clash/proxies
 http://8.136.5.236/clash/proxies
